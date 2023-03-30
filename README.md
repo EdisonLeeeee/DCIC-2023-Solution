@@ -13,5 +13,12 @@
 + TF-IDF特征
 + 各种groupby
 
+# 其它开源解决方案
++ 0.889 [GoogleLLP/DCIC2023-Fraud-Risk-Identification](https://github.com/GoogleLLP/DCIC2023-Fraud-Risk-Identification)
++ 0.88x [ZS167275/DCID-2023](https://github.com/ZS167275/DCID-2023)
++ 0.877 [jiangxiaoshuaiya/2023DCIC](https://github.com/jiangxiaoshuaiya/2023DCIC)
+
+
+
 # 比赛链接
 https://www.dcic-china.com/competitions/10060/
